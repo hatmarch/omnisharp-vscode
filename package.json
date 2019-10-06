@@ -76,6 +76,7 @@
     "instrument": true
   },
   "dependencies": {
+    "@types/lodash": "^4.14.141",
     "async-file": "2.0.2",
     "fs-extra": "7.0.1",
     "http-proxy-agent": "2.1.0",

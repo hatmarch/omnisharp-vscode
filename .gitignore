@@ -26,3 +26,6 @@ coverage/
 vsix/
 
 \.vscodeignore
+
+test-project/
+yarn.lock
